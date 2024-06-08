@@ -1,0 +1,43 @@
+.main-section {
+    padding: 50px 20px;
+    background: #f4f4f4;
+  }
+  
+  .intro {
+    margin-bottom: 40px;
+  }
+  
+  .intro h2 {
+    font-size: 2.5em;
+  }
+  
+  .intro p {
+    font-size: 1.2em;
+  }
+  
+  .intro button {
+    padding: 10px 20px;
+    font-size: 1em;
+    background: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .features {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .feature {
+    background: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    width: 30%;
+  }
+  
+  .feature h3 {
+    margin-top: 0;
+  }
+  
